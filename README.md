@@ -1,17 +1,9 @@
-# ps5_payload_sender
+# Lua Payload Sender
 
-A new Flutter project.
+An app for Android that makes easier executing LUA scripts like P2JB.
 
-## Getting Started
+## For better results, please disable battery optimization. This is because scripts get interrupted if you minimize the app or if you block your phone.
 
-This project is a starting point for a Flutter application.
+Just go in to Application -> Battery -> Battery optimization -> No restrictions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to use it with P2JB this is a must. Please select P2JB.lua on the file selection.
